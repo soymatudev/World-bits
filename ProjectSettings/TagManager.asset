@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Moneda
+  - deadzone
+  - ContadorMonedas
+  - vida
+  - ContadorTiempo
+  - enemigo
+  - checkpoint
+  - textmuerte
+  - PlayerLevels
+  - flappymode
+  - level1
+  - level2
+  - level3
+  - End
+  - back
+  - heart
+  - transport
+  - stair
+  - Rcerezas
+  - Rtiempo
+  - generator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Plataforma
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,38 @@
+# Archivos y carpetas temporales
+[LlBb]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Archivos de caché
+MemoryCaptures/
+
+# Configuración específica de Unity y VS
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos de compilación locales y de Unity Cloud
+*.unitypackage
+*.apk
+*.aab
+
+# Archivos generados por el sistema de control de versiones de Unity
+/Assets/AssetStoreTools*
+
+# Directorios ocultos de Mac
+.DS_Store
+
+# Archivos específicos de versiones
+.idea/
+*.meta
